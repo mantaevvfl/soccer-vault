@@ -18,16 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: V A U L T
+title: THE SOCCER VAULT
 email: mantaev.vfl@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: mantaevvfl
-
+instagram_username: mantaev.vfl
+tiktok_username: mantaev.vfl
+author: Ali and Jaan
 # Build settings
 theme: minima
 plugins:
